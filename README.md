@@ -1,45 +1,89 @@
-I’m currently working on
-• FinMate – a Finance Manager app focused on smart budgeting, expense tracking, and financial awareness
-• Strengthening my skills in Python, SQL, Machine Learning, and UI/UX
-• Academic projects in Data Science & AI
-👯 I’m looking to collaborate on
-• FinTech projects
-• Data Science / AI-based applications
-• App development (Flutter / Full-stack)
-🤝 I’m looking for help with
-• Real-world project guidance
-• Internship and industry exposure
-• Improving system design and scalability
-🌱 I’m currently learning
-• Advanced Python & DSA
-• Machine Learning fundamentals
-• App development and product thinking
-💬 Ask me about
-• Finance apps & budgeting systems
-• Python, SQL, ML basics
-• UI/UX design for tech products
-⚡ Fun fact
-• I blend technology + creativity + finance to build solutions that actually help people 😊
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhoomieee.e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhumika-rathod-23453834b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathodbhumika011@gamil.com) 
+# 👋 Hi, I’m Bhumika Rathod  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rathodbhumika01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rathodbhumika01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rathodbhumika01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rathodbhumika01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rathodbhumika01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 A **Data Science & AI enthusiast** passionate about building **finance-driven, user-centric applications** that create real-world impact.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rathodbhumika01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Currently Working On
+- **FinMate** – A smart finance manager app for budgeting, expense tracking & financial awareness  
+- Strengthening skills in **Python, SQL, Machine Learning & UI/UX**
+- Academic projects in **Data Science & Artificial Intelligence**
+
+---
+
+## 👯 Looking to Collaborate On
+- **FinTech projects**
+- **Data Science / AI-based applications**
+- **App development** (Flutter / Full-stack)
+
+---
+
+## 🤝 Looking for Help With
+- Real-world project guidance
+- Internships & industry exposure
+- System design & scalability improvement
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Python & DSA**
+- **Machine Learning fundamentals**
+- **App development & product thinking**
+
+---
+
+## 💬 Ask Me About
+- Finance apps & budgeting systems  
+- Python, SQL & ML basics  
+- UI/UX design for tech products  
+
+---
+
+## ⚡ Fun Fact
+I blend **technology + creativity + finance** to build solutions that actually help people 😊
+
+---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhoomieee.e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-rathod-23453834b/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathodbhumika011@gmail.com)
+
+---
+
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathodbhumika01&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rathodbhumika01&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rathodbhumika01&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rathodbhumika01&theme=radical&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repositories
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=rathodbhumika01&limit=5&theme=dark)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=rathodbhumika01&icon=0&color=0)
