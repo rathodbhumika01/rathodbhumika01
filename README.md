@@ -1,4 +1,25 @@
-
+I’m currently working on
+• FinMate – a Finance Manager app focused on smart budgeting, expense tracking, and financial awareness
+• Strengthening my skills in Python, SQL, Machine Learning, and UI/UX
+• Academic projects in Data Science & AI
+👯 I’m looking to collaborate on
+• FinTech projects
+• Data Science / AI-based applications
+• App development (Flutter / Full-stack)
+🤝 I’m looking for help with
+• Real-world project guidance
+• Internship and industry exposure
+• Improving system design and scalability
+🌱 I’m currently learning
+• Advanced Python & DSA
+• Machine Learning fundamentals
+• App development and product thinking
+💬 Ask me about
+• Finance apps & budgeting systems
+• Python, SQL, ML basics
+• UI/UX design for tech products
+⚡ Fun fact
+• I blend technology + creativity + finance to build solutions that actually help people 😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhoomieee.e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhumika-rathod-23453834b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathodbhumika011@gamil.com) 
 
