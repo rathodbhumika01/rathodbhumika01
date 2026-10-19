@@ -8,7 +8,7 @@ I enjoy building practical applications, learning how systems work, and turning 
 
 - **RiskLens AI** : A machine learning application for detecting potentially fraudulent transactions using Python, Random Forest, and FastAPI.
 - **HealthInsure AI** : An AI-powered tool for understanding insurance documents, answering policy questions, and checking claim-related information.
-- **BITTU SAREE CENTRE** : An e-commerce platform with customer and owner accounts, product inventory, online payments, and sales analytics.
+- **BITTU SAREE CENTER** : An e-commerce platform with customer and owner accounts, product inventory, online payments, and sales analytics.
 - **College Internship Management System** : A web application for managing internship opportunities and applications across student, faculty, and admin roles.
 
 ## Currently Learning
@@ -40,5 +40,4 @@ I enjoy building practical applications, learning how systems work, and turning 
 
 - [LinkedIn](https://www.linkedin.com/in/bhumika-rathod-1b5658427/)
 - [GitHub](https://github.com/rathodbhumika01)
-- [Instagram](https://www.instagram.com/rathodd.bhoomii/)
 - [Email](mailto:rathodbhumika011@gmail.com)
