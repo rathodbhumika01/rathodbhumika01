@@ -6,10 +6,10 @@ I enjoy building practical applications, learning how systems work, and turning 
 
 ## Projects
 
-- **RiskLens AI** — A machine learning application for detecting potentially fraudulent transactions using Python, Random Forest, and FastAPI.
-- **HealthInsure AI** — An AI-powered tool for understanding insurance documents, answering policy questions, and checking claim-related information.
-- **BITTU SAREE CENTRE** — An e-commerce platform with customer and owner accounts, product inventory, online payments, and sales analytics.
-- **College Internship Management System** — A web application for managing internship opportunities and applications across student, faculty, and admin roles.
+- **RiskLens AI** : A machine learning application for detecting potentially fraudulent transactions using Python, Random Forest, and FastAPI.
+- **HealthInsure AI** : An AI-powered tool for understanding insurance documents, answering policy questions, and checking claim-related information.
+- **BITTU SAREE CENTRE** : An e-commerce platform with customer and owner accounts, product inventory, online payments, and sales analytics.
+- **College Internship Management System** : A web application for managing internship opportunities and applications across student, faculty, and admin roles.
 
 ## Currently Learning
 
